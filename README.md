@@ -4,10 +4,10 @@
 ### 安装nodejs
 ```Bash
 sudo apt-get install nodejs
- sudo apt install nodejs-legacy
- sudo apt install npm
- #更换为淘宝镜像
- sudo npm config set registry https://registry.npm.taobao.org
+sudo apt install nodejs-legacy
+sudo apt install npm
+#更换为淘宝镜像
+sudo npm config set registry https://registry.npm.taobao.org
  ```
  ### 安装更新版本的工具N
  ```Bash
